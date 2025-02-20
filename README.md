@@ -1,20 +1,18 @@
-Hi there! I'm [Your Name] 👋
+#Hi there! I'm Junstin 👋
 
-🚀 About Me
+###🚀 About Me
 
 I'm a Software Developer with a passion for building full-stack applications.
 
-📚 Skills & Technologies
+##📚 Skills & Technologies
 
-Frontend: React, React Native, Next.js, Tailwind CSS
+**Frontend:** React, React Native, Next.js, Tailwind CSS
 
-Backend: Node.js, Express, Go, PHP
+**Backend:** Node.js, Express, Go, PHP
 
-Database: MongoDB, MySQL, Firebase, Supabase
+**Database:** MongoDB, MySQL, Firebase, Supabase
 
-DevOps & Cloud: AWS, Docker, WebSockets
-
-System Programming: C, C++, Unix/Linux, Multithreading
+**System Programming:** Scale, C, C++, Unix/Linux, Multithreading
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Junstinr&show_icons=true&theme=radical)
 
