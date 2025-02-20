@@ -1,10 +1,10 @@
-#Hi there! I'm Junstin 👋
+# Hi there! I'm Junstin 👋
 
-###🚀 About Me
+### 🚀 About Me
 
 I'm a Software Developer with a passion for building full-stack applications.
 
-##📚 Skills & Technologies
+### 📚 Skills & Technologies
 
 **Frontend:** React, React Native, Next.js, Tailwind CSS
 
