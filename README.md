@@ -1,6 +1,6 @@
 # Hi there! I'm Junstin 👋
 
-Passionate **Software Developer** specializing in full-stack development. I love building scalable applications, optimizing performance, and exploring new tech. Always learning, always coding! 🚀  
+I love building scalable applications, optimizing performance, and exploring new tech. Always learning, always coding! 🚀  
 
 🌱 I’m currently learning more about backend development
 
